@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">loginApp</string>
+    <string name="headerlogin">headerLogin</string>
+    <string name="email">Email</string>
+    <string name="pw">Password</string>
+    <string name="title">Login Account</string>
+    <string name="forget">Forgot password?</string>
+    <string name="login">LOGIN</string>
+</resources>
